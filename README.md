@@ -3,4 +3,4 @@ A. 標的：利用kaggle上的心臟病資料集進行醫療數據的分析，�
 
 B. 程式碼：Heart Disease Analysis.R
 
-C. 書面報告：心臟病分析.
+C. 書面報告：心臟病分析.pdf
